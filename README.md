@@ -14,8 +14,8 @@ Ejecución del programa:
 •	Con clic derecho aplastamos en la opción Abrir terminal o Git bash para ejecutar el comando de clonación del  repositorio , el cual es el siguiente:
  
 git clone https://github.com/RFelipeGR/Taller1VJ.git
-•	Cuando el repositorio haya sido clonado debemos de dirigirnos a la carpeta y seguir el siguiente orden.
+Cuando el repositorio haya sido clonado debemos de dirigirnos a la carpeta y seguir el siguiente orden.
 1.	Assets
 2.	Scenes
 3.	SampleScene.unity
-•	Al plastar en SampleScene.unity se abrrira con unity y se podrá navegar por 
+•	Al plastar en SampleScene.unity se abrrira con unity y se podrá navegar por la escena.
